@@ -1,0 +1,3 @@
+# Minecraft Site
+
+A collection of tools and scripts for managing the Minecraft server at http://minecraft.gloryfish.org 
